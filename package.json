@@ -1,0 +1,14 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "pacote do servidor",
+  "main": "npm start",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Luiz Eduardo Oro de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
